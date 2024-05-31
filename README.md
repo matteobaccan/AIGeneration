@@ -4,6 +4,8 @@
 
 Slide del mio intervento Giovedì 30 maggio 2024 presso la Casa delle Associazioni al centro Giada di Arese
 
+__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/AIGeneration/main/slide/AI_Generation.pdf)__
+
 ## Relatori
 
 1. **Dott. William Nonnis** (Durata 15' - Blockchain)  
