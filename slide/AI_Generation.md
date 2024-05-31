@@ -226,3 +226,11 @@ Quelle di oggi sono le peggiori AI che vedremo
 Matteo Baccan è un veterano nell'ambito dell'ingegneria del software, vantando oltre tre decenni di esperienza nel settore dello sviluppo. Attraverso gli anni, ha seguito da vicino l'evoluzione storica dell'informatica, giungendo alla conclusione che il segreto del successo non risiede solamente nella capacità di creare prodotti funzionanti, ma anche nell'abilità di abbracciare l'innovazione mantenendo salda la coerenza e la stabilità.
 
 Oltre alla sua attività professionale, Matteo si dedica attivamente alla divulgazione tecnica. Come docente presso l'Accademia di Belle Arti di Novara, guida gli studenti nel mondo del Web Design, delle Tecnologie Digitali e delle applicazioni di Intelligenza Artificiale. Inoltre, ha contribuito con articoli su numerose pubblicazioni specializzate e ha partecipato come relatore a importanti eventi nazionali nel campo dell'informatica.
+
+---
+
+## Disclaimer
+
+L'autore ha generato questo testo in parte con GPT, il modello di generazione del linguaggio su larga scala di OpenAI. Dopo aver generato la bozza della lingua, l'autore ha rivisto, modificato e rivisto la lingua a proprio piacimento e si assume la responsabilità ultima del contenuto di questa pubblicazione.
+
+L'immagine di sfondo è stata generata con <https://app.haikei.app>
