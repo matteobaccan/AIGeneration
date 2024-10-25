@@ -30,3 +30,9 @@ Slide del mio intervento Giovedì 30 maggio 2024 presso la Casa delle Associazio
 ## Approfondimenti
 
 - [Corso AI](https://github.com/matteobaccan/CorsoAI)
+
+## Eventi
+
+Se volete rimanre aggiornati sugli eventi ai quali partecipo potete guardare questo repository
+
+[Tutti i miei eventi](https://github.com/matteobaccan/Eventi)
