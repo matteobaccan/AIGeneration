@@ -20,7 +20,7 @@ Slide del mio intervento Giovedì 30 maggio 2024 presso la Casa delle Associazio
    Docente di Informatica Giuridica presso l'Università Bocconi e l'Università di Pavia. Porterà la sua preziosa conoscenza sugli aspetti legali dell'IA, fornendo una prospettiva unica sulla regolamentazione e le implicazioni giuridiche legate all'intelligenza artificiale.
    [LinkedIn](https://www.linkedin.com/in/gianfranco-daietti/)
 
-3. **Paolo Pomponi** (Emotional AI)  
+3. **Paolo Pomponi** (Durata 10' - Emotional AI)  
    Prompt designer esperto nel campo dell'Intelligenza Artificiale, con esperienza nel settore dell'office automation e business intelligence quantistica. Offrirà un'opportunità unica per esplorare temi cruciali nell'ambito dell'AI.
    [LinkedIn](https://www.linkedin.com/in/apollo29/)
 
