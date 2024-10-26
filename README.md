@@ -2,9 +2,13 @@
 
 [![Genera PDF](https://github.com/matteobaccan/AIGeneration/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/AIGeneration/actions/workflows/generatepdf.yml)
 
+Slides from my presentation on Thursday, May 30, 2024 at the House of Associations at the Giada center in Arese
+
+**[Download the slides for free - english](https://raw.githubusercontent.com/matteobaccan/AIGeneration/main/slide/AI_Generation-en.pdf)**
+
 Slide del mio intervento Giovedì 30 maggio 2024 presso la Casa delle Associazioni al centro Giada di Arese
 
-**[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/AIGeneration/main/slide/AI_Generation.pdf)**
+**[Scarica gratuitamente le slide - italiano](https://raw.githubusercontent.com/matteobaccan/AIGeneration/main/slide/AI_Generation.pdf)**
 
 ## Relatori
 
@@ -23,7 +27,7 @@ Slide del mio intervento Giovedì 30 maggio 2024 presso la Casa delle Associazio
 4. **Prof. Salvatore Leone** (Etica AI)  
    Rinomato per il suo impegno nell'istruzione e la sua esperienza come dirigente scolastico, sarà il Moderatore Etico durante la conferenza. Guiderà la discussione sull'intelligenza artificiale emozionale con domande mirate a ciascun relatore.
 
-5. **Prof. Matteo Baccan** (Durata 10' - IA Automatica)  
+5. **Prof. Matteo Baccan** (Durata 10' - IA Generation)  
    Veterano nell'ingegneria del software con oltre tre decenni di esperienza. Docente presso l'Accademia di Belle Arti di Novara, ha contribuito con articoli su numerose pubblicazioni specializzate e partecipato come relatore a importanti eventi nazionali.
    [LinkedIn](https://www.linkedin.com/in/matteobaccan/)
 

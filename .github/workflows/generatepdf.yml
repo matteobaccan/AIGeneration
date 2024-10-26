@@ -27,7 +27,13 @@ jobs:
         npx @marp-team/marp-cli@latest AI_Generation.md --pdf --allow-local-files
         rm AI_Generation.md
         mv AI_Generation-backup.md AI_Generation.md
-
+        cp AI_Generation-en.md AI_Generation-en-backup.md
+        sed -i "s/%date%/$(date +'%Y-%m-%d')/g" AI_Generation-en.md
+        sed -i "s/%time%/$(date +'%H:%M')/g" AI_Generation-en.md
+        npx @marp-team/marp-cli@latest AI_Generation-en.md --pdf --allow-local-files
+        rm AI_Generation-en.md
+        mv AI_Generation-en-backup.md AI_Generation-en.md
+  
     - name: commit & push
       run: |
         git add -A
