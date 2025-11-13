@@ -164,7 +164,7 @@ Phantom interruption of A22 at Brennero, Vipiteno invaded: Many are leaving the 
 
 ![center width:600px](img/ai-generation-vipiteno.jpeg)
 
-<https://www.ansa.it/sito/notizie/cronaca/2024/05/30/interruzione-fantasma-della22-al-brennero-invasa-vipiteno_10ecefdd-f50d-4ac5-84a8-5d7fc4f30b87.html>
+[The news reported by ANSA](https://www.ansa.it/sito/notizie/cronaca/2024/05/30/interruzione-fantasma-della22-al-brennero-invasa-vipiteno_10ecefdd-f50d-4ac5-84a8-5d7fc4f30b87.html)
 
 ---
 
